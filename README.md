@@ -7,7 +7,7 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 ![Geographic Distribution and Development of Arabic LLMs. Model names with the same color indicate collaborative development efforts between different countries.](https://github.com/iwan-rg/ArabicLLMs/blob/main/LLM%20Map.png?raw=true)
 
 ## Citation
-Please cite our paper if you use this code or part of it in your work:
+Please cite our paper if you use it in your work:
 
 **BibTeX**
 ```bibtex
