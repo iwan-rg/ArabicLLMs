@@ -17,11 +17,20 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 ## Datasets for Arabic LLMs Pretraining
 
 ### Classical Arabic (CA) 
+- OpenITI corpus (v1.2)
+  
 ### Modern Standard Arabic (MSA) 
+- 1.5 billion Words Arabic Corpus
+- OSIAN Corpus
+- Gigaword Corpus
+-  ....
+  
 ### Dialectal Arabic (DA) 
-### Combination of Arabic Forms 
-
-
+- CALLHOME Egyptian Arabic Transcripts 
+- CALLHOME Egyptian Arabic Transcripts Supplement
+- Babylon Levantine Arabic Transcripts
+- ...
+  
 ## Monolingual Arabic LLMs
 - AraBERT
 - MARBERT
