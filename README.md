@@ -5,7 +5,7 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 ![Arabic LLM Survey](https://github.com/iwan-rg/ArabicLLMs/blob/main/Arabic%20LLM%20Survey.png?raw=true)
 
 
-![Arabic LLM Survey](https://github.com/iwan-rg/ArabicLLMs/blob/main/Arabic%20LLM%20Survey.png?raw=true)
+![Geographic Distribution and Development of Arabic LLMs. Model names with the same color indicate collaborative development efforts between different countries.] (https://github.com/iwan-rg/ArabicLLMs/blob/main/LLM%20Map.png?raw=true))
 
 
 ## Citation
