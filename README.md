@@ -4,6 +4,10 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 
 ![Arabic LLM Survey](https://github.com/iwan-rg/ArabicLLMs/blob/main/Arabic%20LLM%20Survey.png?raw=true)
 
+
+![Arabic LLM Survey](https://github.com/iwan-rg/ArabicLLMs/blob/main/Arabic%20LLM%20Survey.png?raw=true)
+
+
 ## Citation
 Please cite our paper if you use this code or part of it in your work:
 
