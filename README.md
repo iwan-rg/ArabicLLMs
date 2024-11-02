@@ -10,6 +10,46 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 
 ![Geographic Distribution and Development of Arabic LLMs. Model names with the same color indicate collaborative development efforts between different countries.](https://github.com/iwan-rg/ArabicLLMs/blob/main/LLM%20Map.png?raw=true)
 
+## Monolingual Arabic LLMs
+AraBERT
+MARBERT
+ARBERT
+QARiB
+SudaBERT
+AraELECTRA
+AraGPT2
+CAMeLBERT
+JABER
+SABER
+AraBART
+AraLegal-BERT
+AraRoBERTa
+DziriBERT
+TunBERT
+DarijaBERT
+AraMUS
+MorRoBERTa
+MorrBERT
+JASMINE
+AraQA
+ArabianGPT
+AraPOEMBERT
+SaudiBERT
+AlcLaM
+AraStories
+EgyBERT
+Atlas-Chat
+
+## Bilingual Arabic LLMS
+GigaBERT 
+JAIS 
+AceGPT
+ALLaM
+
+## Multilingual Arabic LLMS
+ArabicBERT 	
+AraT5 
+
 ## Citation
 Please cite our paper if you use it in your work:
 
