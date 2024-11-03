@@ -72,21 +72,21 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 - AraBART <a href="https://aclanthology.org/2022.wanlp-1.4">Link</a>.
 - AraLegal-BERT <a href="https://aclanthology.org/2022.nllp-1.31">Link</a>.
 - AraRoBERTa <a href="https://aclanthology.org/2022.wanlp-1.24">Link</a>.
-- DziriBERT
-- TunBERT
-- DarijaBERT
-- AraMUS
-- MorRoBERTa
-- MorrBERT
-- JASMINE
-- AraQA
-- ArabianGPT
-- AraPOEMBERT
-- SaudiBERT
-- AlcLaM
-- AraStories
-- EgyBERT
-- Atlas-Chat
+- DziriBERT <a href="http://arxiv.org/abs/2109.12346">Link</a>.
+- TunBERT <a href="https://doi.org/10.1007/s42979-022-01541-y">Link</a>.
+- DarijaBERT <a href="https://link.springer.com/10.1007/s41060-023-00498-2">Link</a>.
+- AraMUS <a href="https://aclanthology.org/2023.findings-acl.181">Link</a>.
+- MorRoBERTa <a href="https://www.researchgate.net/publication/375765718_Pre-training_Two_BERT-Like_Models_for_Moroccan_Dialect_MorRoBERTa_and_MorrBERT#fullTextFileContent">Link</a>.
+- MorrBERT <a href="https://www.researchgate.net/publication/375765718_Pre-training_Two_BERT-Like_Models_for_Moroccan_Dialect_MorRoBERTa_and_MorrBERT#fullTextFileContent">Link</a>.
+- JASMINE <a href="https://aclanthology.org/2023.emnlp-main.1040">Link</a>.
+- AraQA <a href="https://ieeexplore.ieee.org/abstract/document/10479645">Link</a>.
+- ArabianGPT <a href="http://arxiv.org/abs/2402.15313">Link</a>.
+- AraPOEMBERT <a href="http://arxiv.org/abs/2403.12392">Link</a>.
+- SaudiBERT <a href="http://arxiv.org/abs/2405.06239">Link</a>.
+- AlcLaM <a href="https://aclanthology.org/2024.arabicnlp-1.14">Link</a>.
+- AraStories <a href="https://aclanthology.org/2024.arabicnlp-1.13">Link</a>.
+- EgyBERT <a href="http://arxiv.org/abs/2408.03524">Link</a>.
+- Atlas-Chat <a href="http://arxiv.org/abs/2409.17912">Link</a>.
 
 ## Bilingual Arabic LLMS
 - GigaBERT 
