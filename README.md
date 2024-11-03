@@ -89,14 +89,14 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 - Atlas-Chat <a href="http://arxiv.org/abs/2409.17912">Link</a>.
 
 ## Bilingual Arabic LLMS
-- GigaBERT 
-- JAIS 
-- AceGPT
-- ALLaM
+- GigaBERT <a href="https://aclanthology.org/2020.emnlp-main.382">Link</a>.
+- JAIS <a href="http://arxiv.org/abs/2308.16149">Link</a>.
+- AceGPT <a href="https://aclanthology.org/2024.naacl-long.450">Link</a>.
+- ALLaM <a href="http://arxiv.org/abs/2407.15390">Link</a>.
 
 ## Multilingual Arabic LLMS
-- ArabicBERT 	
-- AraT5 
+- ArabicBERT 	<a href="https://aclanthology.org/2020.semeval-1.271">Link</a>.
+- AraT5 <a href="https://aclanthology.org/2022.acl-long.47">Link</a>.
 
 ## Citation
 Please cite our paper if you use it in your work:
