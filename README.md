@@ -17,7 +17,10 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 ## Datasets for Arabic LLMs Pretraining
 
 ### Classical Arabic (CA) 
-- OpenITI corpus (v1.2)
+- OpenITI corpus (v1.2) [Link][openiti-link].
+
+[openiti-link]: https://openiti.org/projects/OpenITI%20Corpus.html
+
   
 ### Modern Standard Arabic (MSA) 
 - 1.5 billion Words Arabic Corpus
