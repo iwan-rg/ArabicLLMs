@@ -18,14 +18,27 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 
 ### Classical Arabic (CA) 
 - OpenITI corpus (v1.2) <a href="https://openiti.org/projects/OpenITI%20Corpus.html" target="_blank">Link</a>.
-
-[openiti-link]: https://openiti.org/projects/OpenITI%20Corpus.html
-
   
 ### Modern Standard Arabic (MSA) 
-- 1.5 billion Words Arabic Corpus
-- OSIAN Corpus
-- Gigaword Corpus
+- 1.5 billion Words Arabic Corpus <a href="https://arxiv.org/pdf/1611.04033v1" target="_blank">Link</a>.
+- OSIAN Corpus <a href="https://aclanthology.org/W19-4619/" target="_blank">Link</a>.
+- Gigaword Corpus <a href="https://catalog.ldc.upenn.edu/LDC2003T12" target="_blank">Link</a>.
+- Oscar Corpus <a href="https://oscar-project.org/" target="_blank">Link</a>.
+- Arabic Wikipedia Dump <a href="https://archive.org/details/arwiki-20190201" target="_blank">Link</a>.
+- ArabicText 2022 <a href="https://data.baai.ac.cn/details/ArabicText-2022" target="_blank">Link</a>.
+- AraC4 <a href="https://www.tensorflow.org/datasets/catalog/c4" target="_blank">Link</a>.
+- Maktabah <a href="https://www.kaggle.com/datasets/mahmoudqaddoumi/arabic-library" target="_blank">Link</a>.
+- TyDi dataset <a href="https://github.com/google-research-datasets/tydiqa?tab=readme-ov-file#download-the-dataset" target="_blank">Link</a>.
+- ARCD <a href="https://metatext.io/datasets/arabic-reading-comprehension-dataset-(arcd)" target="_blank">Link</a>.
+- CC100-Arabic <a href="https://metatext.io/datasets/cc100-arabic" target="_blank">Link</a>.
+- OpenSubtitles2016 corpus <a href="https://www.opensubtitles.org/en/search/subs" target="_blank">Link</a>.
+- AraNews <a href="https://github.com/UBC-NLP/wanlp2020_arabic_fake_news_detection" target="_blank">Link</a>.
+- Hindawi <a href="https://huggingface.co/datasets/alielfilali01/Hindawi-Books-dataset" target="_blank">Link</a>.
+
+
+
+
+
 -  ....
   
 ### Dialectal Arabic (DA) 
