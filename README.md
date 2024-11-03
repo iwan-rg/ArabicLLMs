@@ -58,21 +58,20 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 - QADI Corpus <a href="https://alt.qcri.org/resources/qadi/">Link</a>.
 - Darija-SFT-Mixture dataset <a href="https://huggingface.co/datasets/MBZUAI-Paris/Darija-SFT-Mixture">Link</a>.
 
-  
 ## Monolingual Arabic LLMs
-- AraBERT
-- MARBERT
-- ARBERT
-- QARiB
-- SudaBERT
-- AraELECTRA
-- AraGPT2
-- CAMeLBERT
-- JABER
-- SABER
-- AraBART
-- AraLegal-BERT
-- AraRoBERTa
+- AraBERT <a href="https://aclanthology.org/2020.osact-1.2">Link</a>.
+- MARBERT <a href="https://aclanthology.org/2021.acl-long.551">Link</a>.
+- ARBERT  <a href="https://aclanthology.org/2021.acl-long.551">Link</a>.
+- QARiB   <a href="https://aclanthology.org/2020.wanlp-1.21">Link</a>.
+- SudaBERT <a href="https://ieeexplore.ieee.org/abstract/document/9429651">Link</a>.
+- AraELECTRA <a href="https://aclanthology.org/2021.wanlp-1.20">Link</a>.
+- AraGPT2 <a href="https://aclanthology.org/2021.wanlp-1.21">Link</a>.
+- CAMeLBERT <a href="https://aclanthology.org/2021.wanlp-1.10">Link</a>.
+- JABER <a href="https://aclanthology.org/2022.emnlp-main.205">Link</a>.
+- SABER <a href="https://aclanthology.org/2022.emnlp-main.205">Link</a>.
+- AraBART <a href="https://aclanthology.org/2022.wanlp-1.4">Link</a>.
+- AraLegal-BERT <a href="https://aclanthology.org/2022.nllp-1.31">Link</a>.
+- AraRoBERTa <a href="https://aclanthology.org/2022.wanlp-1.24">Link</a>.
 - DziriBERT
 - TunBERT
 - DarijaBERT
