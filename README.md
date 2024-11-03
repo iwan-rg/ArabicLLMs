@@ -34,18 +34,30 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 - OpenSubtitles2016 corpus <a href="https://www.opensubtitles.org/en/search/subs" target="_blank">Link</a>.
 - AraNews <a href="https://github.com/UBC-NLP/wanlp2020_arabic_fake_news_detection" target="_blank">Link</a>.
 - Hindawi <a href="https://huggingface.co/datasets/alielfilali01/Hindawi-Books-dataset" target="_blank">Link</a>.
-
-
-
-
-
--  ....
-  
+ 
 ### Dialectal Arabic (DA) 
-- CALLHOME Egyptian Arabic Transcripts 
-- CALLHOME Egyptian Arabic Transcripts Supplement
-- Babylon Levantine Arabic Transcripts
-- ...
+- CALLHOME Egyptian Arabic Transcripts <a href="https://catalog.ldc.upenn.edu/LDC97T19">Link</a>.
+- CALLHOME Egyptian Arabic Transcripts Supplement <a href="https://catalog.ldc.upenn.edu/LDC2002T38">Link</a>.
+- Babylon Levantine Arabic Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2005S08">Link</a>.
+- Levantine Arabic QT Training Data Set 4 Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2005S14">Link</a>.
+- Levantine Arabic QT Training Data Set 5 Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2006T07">Link</a>.
+- Gulf Arabic Conversational Telephone Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2006T15">Link</a>.
+- Iraqi Arabic Conversational Telephone Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2006T16">Link</a>.
+- Levantine Arabic Conversational Telephone Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2007T01">Link</a>.
+- Fisher Levantine Arabic Conversational Telephone Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2007T04">Link</a>.
+- AOC Dataset <a href="https://www.cs.jhu.edu/data-archive/AOC-2010/?C=D;O=D">Link</a>.
+- Arabic-Dialect/English Parallel Text <a href="https://catalog.ldc.upenn.edu/LDC2012T09">Link</a>.
+- PADIC Corpus <a href="https://sourceforge.net/projects/padic/">Link</a>.
+- Curras Corpus <a href="https://www.jarrar.info/publications/JHRAZ17.pdf">Link</a>.
+- BOLT Egyptian Arabic SMS/Chat and Transliteration <a href="https://catalog.ldc.upenn.edu/LDC2017T07">Link</a>.
+- SDC (Shami Dialect Corpus) <a href="https://github.com/GU-CLASP/shami-corpus">Link</a>.
+- Gumar Corpus <a href="https://camel.abudhabi.nyu.edu/gumar/">Link</a>.
+- MADAR Corpus <a href="https://sites.google.com/nyu.edu/madar/home#h.xpcfdhjyc95c">Link</a>.
+- Habibi Corpus <a href="http://ucrel-web.lancaster.ac.uk/habibi/">Link</a>.
+- NADI 2020 Corpus <a href="https://sites.google.com/view/nadi-shared-task">Link</a>.
+- QADI Corpus <a href="https://alt.qcri.org/resources/qadi/">Link</a>.
+- Darija-SFT-Mixture dataset <a href="https://huggingface.co/datasets/MBZUAI-Paris/Darija-SFT-Mixture">Link</a>.
+
   
 ## Monolingual Arabic LLMs
 - AraBERT
