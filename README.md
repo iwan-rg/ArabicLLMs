@@ -17,7 +17,7 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 ## Datasets for Arabic LLMs Pretraining
 
 ### Classical Arabic (CA) 
-- OpenITI corpus (v1.2) [Link][openiti-link].
+- OpenITI corpus (v1.2) <a href="https://openiti.org/projects/OpenITI%20Corpus.html" target="_blank">Link</a>.
 
 [openiti-link]: https://openiti.org/projects/OpenITI%20Corpus.html
 
