@@ -36,7 +36,7 @@ This survey offers a comprehensive overview of Large Language Models (LLMs) desi
 - Hindawi <a href="https://huggingface.co/datasets/alielfilali01/Hindawi-Books-dataset" target="_blank">Link</a>.
  
 ### Dialectal Arabic (DA) 
-- CALLHOME Egyptian Arabic Transcripts <a href="https://catalog.ldc.upenn.edu/LDC97T19">Link</a>.
+- CALLHOME Egyptian Arabic Transcripts <a href="https://catalog.ldc.upenn.edu/LDC97T19" target="_blank">Link</a>.
 - CALLHOME Egyptian Arabic Transcripts Supplement <a href="https://catalog.ldc.upenn.edu/LDC2002T38">Link</a>.
 - Babylon Levantine Arabic Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2005S08">Link</a>.
 - Levantine Arabic QT Training Data Set 4 Transcripts <a href="https://catalog.ldc.upenn.edu/LDC2005S14">Link</a>.
